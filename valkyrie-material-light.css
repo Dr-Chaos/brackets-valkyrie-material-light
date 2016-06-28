@@ -1,0 +1,41 @@
+.CodeMirror-linenumber,
+.CodeMirror-line,
+.CodeMirror-scroll,
+.CodeMirror-gutters {
+  font-family: "SourceCodePro-Medium";
+  font-size: 15px;
+}
+.cm-meta {
+  color: #f44336;
+}
+.cm-string {
+  color: #f44336;
+}
+.cm-variable-2 {
+  color: #673ab7;
+}
+.cm-variable,
+.cm-builtin {
+  color: #2196f3;
+}
+.cm-keyword {
+  color: #4caf50;
+}
+.cm-number {
+  color: #f44336;
+}
+.cm-bracket {
+  color: #673ab7;
+}
+.cm-tag {
+  color: #673ab7;
+}
+.cm-attribute {
+  color: #2196f3;
+}
+.cm-property {
+  color: #388e3c;
+}
+.cm-def {
+  color: #673ab7;
+}
