@@ -3,7 +3,6 @@
 .CodeMirror-scroll,
 .CodeMirror-gutters {
   font-family: "SourceCodePro-Medium";
-  font-size: 15px;
 }
 .cm-meta {
   color: #f44336;
